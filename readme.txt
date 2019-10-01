@@ -5,4 +5,5 @@ git tracks changes of files
 git is a good app
 creating a new branch is quick
 creating a new branch is quick and sample
+I want to fix bug
 
